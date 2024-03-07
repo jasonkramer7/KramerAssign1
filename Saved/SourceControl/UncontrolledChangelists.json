@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jkramer9309/Documents/Unreal Projects/KramerAssign1/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/jkramer9309/Documents/Unreal Projects/KramerAssign1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/jkramer9309/Documents/Unreal Projects/KramerAssign1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/B3/0LSW7ECONQW6IUFJJS224A.uasset",
+				"C:/Users/jkramer9309/Documents/Unreal Projects/KramerAssign1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2V/DVOLOBDGVDKNVXEWFUSU5E.uasset",
+				"C:/Users/jkramer9309/Documents/Unreal Projects/KramerAssign1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0P/E83SELEH2L0URJ7ZMY1HD8.uasset",
+				"C:/Users/jkramer9309/Documents/Unreal Projects/KramerAssign1/Content/StarterContent/Architecture/SM_AssetPlatform.uasset",
+				"C:/Users/jkramer9309/Documents/Unreal Projects/KramerAssign1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4H/GMGZALHF7XA6VIGVTH6KBJ.uasset",
+				"C:/Users/jkramer9309/Documents/Unreal Projects/KramerAssign1/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+			]
+		}
+	]
+}
